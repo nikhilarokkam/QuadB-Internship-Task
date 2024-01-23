@@ -21,7 +21,9 @@ This repository contains my solution for the ReactJS development internship task
 ### Laptop View
 ![Laptop Image](https://github.com/nikhilarokkam/QuadB-Internship-Task/assets/115566678/17c24ca3-42bc-4ced-a1ed-bec50dabd937)
 ### Summary Screen
+![screencapture-localhost-3000-2024-01-23-13_24_30](https://github.com/nikhilarokkam/QuadB-Internship-Task/assets/115566678/33494dfd-047f-4e37-a90e-f830e35345e8)
 ### Ticket Booked Screen
+![screencapture-localhost-3000-2024-01-23-13_24_41](https://github.com/nikhilarokkam/QuadB-Internship-Task/assets/115566678/330734d9-b736-4577-891a-67e6d3b98103)
 ### Tablet View
 ![Tablet Image](https://github.com/nikhilarokkam/QuadB-Internship-Task/assets/115566678/e2586eb9-c0da-48bc-8252-3c0532d8e15c)
 ### Mobile View
