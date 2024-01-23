@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my solution for the ReactJS development internship task assigned by QuadB Tech. The task involved creating a two-screen ReactJS application using the TVMaze API.<br>
+This repository contains my solution for the ReactJS development internship task assigned by QuadB Tech. The task involved creating a two-screen ReactJS application using the TVMaze API.<br><br>
 <b>API:</b> https://api.tvmaze.com/search/shows?q=all
 
 ## Features
