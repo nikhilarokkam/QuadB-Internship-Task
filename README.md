@@ -17,3 +17,9 @@ This repository contains my solution for the ReactJS development internship task
 - TVMaze API
 
 ## Project Screenshots
+### Laptop View
+![Laptop Image](https://github.com/nikhilarokkam/QuadB-Internship-Task/assets/115566678/17c24ca3-42bc-4ced-a1ed-bec50dabd937)
+### Tablet View
+![Tablet Image](https://github.com/nikhilarokkam/QuadB-Internship-Task/assets/115566678/e2586eb9-c0da-48bc-8252-3c0532d8e15c)
+### Mobile View
+![Mobile Image](https://github.com/nikhilarokkam/QuadB-Internship-Task/assets/115566678/c655e3a3-e401-4604-a744-b12203965f09)
